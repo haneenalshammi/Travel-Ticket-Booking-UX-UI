@@ -38,7 +38,7 @@ The project was designed with a user-centered approach:
 
 ### Login
 
-![Login](Design/login.png)
+![Login](Design/Login.png)
 
 ### Select Transportation
 
