@@ -34,7 +34,7 @@ The project was designed with a user-centered approach:
 
 ### Sign Up
 
-![Sign Up](Design/sign-up.png)
+![Sign Up](Design/Signup.png)
 
 ### Login
 
@@ -46,7 +46,7 @@ The project was designed with a user-centered approach:
 
 ### Select Destination
 
-![Select Destination](Design/select-destination.png)
+![Select Destination](Design/search-destination.png)
 
 ### Available Tickets
 
