@@ -34,7 +34,7 @@ The project was designed with a user-centered approach:
 
 ### Sign Up
 
-![Sign Up](Design/Signup.png)
+![Sign Up](Design/Sign_up.png)
 
 ### Login
 
