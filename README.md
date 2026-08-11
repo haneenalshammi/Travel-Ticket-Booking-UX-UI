@@ -30,43 +30,43 @@ The project was designed with a user-centered approach:
 
 ### Welcome
 
-![Welcome](Design/01-welcome.png)
+![Welcome](Design/welcome.png)
 
 ### Sign Up
 
-![Sign Up](Design/02-sign-up.png)
+![Sign Up](Design/sign-up.png)
 
 ### Login
 
-![Login](Design/03-login.png)
+![Login](Design/login.png)
 
 ### Select Transportation
 
-![Select Transportation](Design/04-select-transportation.png)
+![Select Transportation](Design/select-transportation.png)
 
 ### Select Destination
 
-![Select Destination](Design/05-select-destination.png)
+![Select Destination](Design/select-destination.png)
 
 ### Available Tickets
 
-![Available Tickets](Design/06-available-tickets.png)
+![Available Tickets](Design/available-tickets.png)
 
 ### Ticket Details
 
-![Ticket Details](Design/07-ticket-details.png)
+![Ticket Details](Design/ticket-details.png)
 
 ### Ticket Barcode
 
-![Ticket Barcode](Design/08-ticket-barcode.png)
+![Ticket Barcode](Design/ticket-barcode.png)
 
 ### My Tickets
 
-![My Tickets](Design/09-my-tickets.png)
+![My Tickets](Design/my-tickets.png)
 
 ### Trip Tracking
 
-![Trip Tracking](Design/10-trip-tracking.png)
+![Trip Tracking](Design/trip-tracking.png)
 
 ## Tools
 
